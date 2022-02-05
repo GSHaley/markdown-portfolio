@@ -1,3 +1,3 @@
--Computers
--Math
--Science
+- Computers
+- Math
+- Science
